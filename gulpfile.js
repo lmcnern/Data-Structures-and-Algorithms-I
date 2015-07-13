@@ -9,7 +9,7 @@ gulp.task('default', ['msg', 'test', 'stylish-lint'], function() {
   });
 
 gulp.task('msg', function() {
-  return gutil.log('============== STARTING GULP ==============');
+  return gutil.log('================= STARTING GULP =================');
 });
 
 gulp.task('stylish-lint', function() {
