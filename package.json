@@ -1,0 +1,17 @@
+{
+  "name": "Array_Test",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithms I",
+  "main": "frequency2.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "Lauren McNerney",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-mocha": "^2.1.3",
+    "gulp-util": "^3.0.6"
+  }
+}
